@@ -1,7 +1,7 @@
 # Bitcoin Wallet Recovery Tool
 
 
-![Bitcoin Wallet Recovery](https://github.com/NotMRGH/BTC-Wallet-Finder/raw/main/preview.png)
+![Bitcoin Wallet Recovery](https://github.com/NotMRGH/BTC-Wallet-Finder/raw/master/preview.png)
 
 
 
